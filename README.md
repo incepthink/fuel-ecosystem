@@ -5,8 +5,9 @@ The home for ecosystem applications building on the Fuel Network. Find all the r
 ## How to add a project
 
 1. Fork this repository
-2. Add your project to the end of the `projects.json` file.
-3. Create a pull request
+2. Add your project to the end of the [projects.json](./projects.json) file.
+3. Add an image to the [images](./images) folder with `.jpeg` extension.
+3. Create a pull request to this repository.
 
 ## Schema
 
@@ -26,3 +27,17 @@ The home for ecosystem applications building on the Fuel Network. Find all the r
 ## Images
 
 All images should be in the `images` folder with extension `.jpeg`.
+
+## How to use
+
+### Data
+
+```
+https://fuellabs.github.io/fuel-ecosystem/projects.json
+```
+
+### Images
+
+```
+https://fuellabs.github.io/fuel-ecosystem/assets/{project.image}.jpeg
+```
