@@ -480,6 +480,26 @@
     "isFeatured": true,
     "name": "Mira Exchange",
     "url": "https://mira.ly/",
+    "contracts": {
+      "mainnet": [
+        {
+          "id": "0xe68f7269cc74edfafd10de380288b89e8d419f3b456f78ba727a8cb0d679b163",
+          "name": "Mira V1 Core",
+          "description": "",
+          "source": "https://raw.githubusercontent.com/mira-amm/mira-v1-core/0ebb28837216276ab7bdad615fa5a0545810d37c/contracts/mira_amm_contract/src/main.sw",
+          "commit": "0ebb28837216276ab7bdad615fa5a0545810d37c",
+          "repo": "https://github.com/mira-amm/mira-v1-core",
+          "links": [
+            {
+              "title": "Security Audit",
+              "url": "https://docs.mira.ly/developer-guides/security-audit"
+            }
+          ],
+          "audits": []
+        }
+      ],
+      "sepolia": []
+    },
     "tags": [
       "DeFi"
     ],
