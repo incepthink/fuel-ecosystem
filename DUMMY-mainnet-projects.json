@@ -306,6 +306,21 @@
       "Fuel",
       "Tooling"
     ],
+    "contracts": {
+      "mainnet": [
+        {
+          "id": "0x4ea6ccef1215d9479f1024dff70fc055ca538215d2c8c348beddffd54583d0e8",
+          "name": "Fuel Token Gateway",
+          "description": "",
+          "source": "https://raw.githubusercontent.com/FuelLabs/fuel-bridge/refs/heads/main/packages/fungible-token/bridge-fungible-token/implementation/src/main.sw",
+          "commit": "2f61bd81cee13a6346fed3053919e28c53e1754e",
+          "repo": "https://github.com/FuelLabs/fuel-bridge",
+          "links": [],
+          "audits": []
+        }
+      ],
+      "sepolia": []
+    },
     "description": "Bridge assets from Ethereum to Fuel with Fuel's native bridge.",
     "github": "https://github.com/FuelLabs/fuel-bridge",
     "twitter": "https://x.com/fuel_network",
