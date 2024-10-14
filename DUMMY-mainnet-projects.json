@@ -640,7 +640,7 @@
     "contracts": {
       "mainnet": [
         {
-          "id": "0x2e40f2b244b98ed6b8204b3de0156c6961f98525c8162f80162fcf53eebd90e7",
+          "id": "0x103465f1c0c901471b868b4a9e4e57c381168ac38ee5b59732943e9e004c488d",
           "name": "Pyth Core",
           "description": "",
           "source": "https://raw.githubusercontent.com/pyth-network/pyth-crosschain/refs/heads/main/target_chains/fuel/contracts/pyth-contract/src/main.sw",
