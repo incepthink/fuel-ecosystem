@@ -67,6 +67,7 @@
           "source": "https://raw.githubusercontent.com/Bako-Labs/bako-safe/refs/heads/main/packages/sway/src/predicate/src/main.sw",
           "commit": "3638b3d237891cc2a1833e6b1280320e61bd819a",
           "repo": "https://github.com/Bako-Labs/bako-safe/tree/main/packages/sway/src/predicate",
+          "image": "bakosafe",
           "links": [],
           "audits": []
         }
@@ -329,6 +330,7 @@
           "source": "https://raw.githubusercontent.com/FuelLabs/fuel-connectors/refs/heads/main/packages/evm-predicates/predicate/src/main.sw",
           "commit": "01c65cc6d75dd677f6fbe5fdb6975af36465a967",
           "repo": "https://github.com/FuelLabs/fuel-connectors/tree/main/packages/evm-predicates/predicate",
+          "image": "ethereumconnector",
           "links": [],
           "audits": []
         },
@@ -339,6 +341,7 @@
           "source": "https://raw.githubusercontent.com/FuelLabs/fuel-connectors/refs/heads/main/packages/solana-connector/predicate/src/main.sw",
           "commit": "01c65cc6d75dd677f6fbe5fdb6975af36465a967",
           "repo": "https://github.com/FuelLabs/fuel-connectors/tree/main/packages/solana-connector/predicate",
+          "image": "solanaconnector",
           "links": [],
           "audits": []
         }
