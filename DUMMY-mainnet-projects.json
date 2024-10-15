@@ -324,7 +324,7 @@
       "mainnet": [
         {
           "blob_id": "0xc58d08df0d31dfaaadd57de9f04d89b7abc88b28a2f45f522cc5c1fd8da67978",
-          "name": "Fuel Ethereum Connector",
+          "name": "Ethereum Connector",
           "description": "This connector supports EVM compatible EOA accounts such as MetaMask and Rabby.",
           "source": "https://raw.githubusercontent.com/FuelLabs/fuel-connectors/refs/heads/main/packages/evm-predicates/predicate/src/main.sw",
           "commit": "01c65cc6d75dd677f6fbe5fdb6975af36465a967",
@@ -334,7 +334,7 @@
         },
         {
           "blob_id": "0x3ac5c446f2f99d83d0e2dc773bb77c619783f1389c4d0198bba9b48680b80177",
-          "name": "Fuel Solana Connector",
+          "name": "Solana Connector",
           "description": "This connector supports SVM compatible EOA accounts such as Phantom and Backpack.",
           "source": "https://raw.githubusercontent.com/FuelLabs/fuel-connectors/refs/heads/main/packages/solana-connector/predicate/src/main.sw",
           "commit": "01c65cc6d75dd677f6fbe5fdb6975af36465a967",
