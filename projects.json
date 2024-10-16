@@ -547,7 +547,7 @@
     "isLiveMainnet": true,
     "isLive": true,
     "name": "Meld",
-    "url": "www.meld.io",
+    "url": "http://www.meld.io",
     "tags": [
       "Onramp"
     ],
@@ -735,7 +735,7 @@
     "image": "redstone"
   },
   {
-    "isLiveMainnet": true,
+    "isLiveMainnet": false,
     "isLive": true,
     "name": "Ruscet Exchange",
     "url": "https://ruscet.xyz/",
