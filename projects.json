@@ -351,7 +351,7 @@
     "isLiveMainnet": true,
     "isLive": true,
     "name": "Fuel Connectors",
-    "url": "https://connectors.fuel.network",
+    "url": "https://docs.fuel.network/guides/fuel-connectors/non-technical-guide",
     "tags": [
       "Fuel",
       "Wallet"
@@ -407,12 +407,13 @@
   {
     "isLiveMainnet": true,
     "isLive": true,
+    "isFeatured": true,
     "name": "Fuelet Wallet",
     "url": "https://fuelet.app/",
     "tags": [
       "Wallet"
     ],
-    "description": "Fuelet is the leading account abstraction and non-custodial wallet on Fuel.",
+    "description": "Join 200,000+ users who count on us to explore Fuel Ecosystem with user-friendly UX and unparalleled security.",
     "github": "https://github.com/fuelet",
     "twitter": "https://x.com/FueletWallet",
     "discord": "https://discord.gg/fueletwallet",
