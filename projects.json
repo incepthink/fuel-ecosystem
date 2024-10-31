@@ -915,6 +915,21 @@
     "isLive": true,
     "name": "Sway Farm",
     "url": "https://www.swayfarm.xyz/",
+    "contracts": {
+      "mainnet": [
+        {
+          "id": "0x4a6914d9ee51445a57cfddf8690eb3f072933925d6cdfa6c1e5f953dd5b8e610",
+          "name": "Sway Farm",
+          "description": "The core Sway Farm game contract.",
+          "source": "https://raw.githubusercontent.com/FuelLabs/sway-farm/refs/heads/main/contract/src/main.sw",
+          "commit": "17af4d2e097abfa6e8e659387ff4b540be9b8af8",
+          "repo": "https://github.com/FuelLabs/sway-farm",
+          "links": [],
+          "audits": []
+        }
+      ],
+      "sepolia": []
+    },
     "tags": [
       "Fuel",
       "Gaming"
