@@ -1570,7 +1570,24 @@
     "url": "https://www.dieseldex.com/",
     "twitter": "https://x.com/DieselDex_Fuel",
     "image": "dieseldex",
-    "address": "0x7c293b054938bedca41354203be4c08aec2c3466412cac803f4ad62abf22e476",
-    "description": "The Best Trading Experience On Fuel Network"
+    "description": "The Best Trading Experience On Fuel Network",
+    "contracts": {
+      "mainnet": [
+        {
+          "id": "0x7c293b054938bedca41354203be4c08aec2c3466412cac803f4ad62abf22e476",
+          "name": "Diesel v1 core",
+          "description": "",
+          "source": "https://raw.githubusercontent.com/incepthink/DieselDex_v1core/refs/heads/main/contracts/diesel_amm_contract/src/main.sw",
+          "commit": "ddaffc56a9b14a257d839f70b000d3f1761a972f",
+          "repo": "https://github.com/incepthink/DieselDex_v1core",
+          "links": [],
+          "audits": [],
+          "abi": "https://raw.githubusercontent.com/FuelLabs/fuel-ecosystem/main/artifacts/diesel-dex/diesel_amm_contract-abi.json"
+        }
+      ]
+    },
+    "tags": [
+      "DeFi"
+    ]
   }
 ]
